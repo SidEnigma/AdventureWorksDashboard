@@ -1,5 +1,6 @@
 # Transforming Raw Data into Actionable Business Insights with Power BI
 Fully interactive PowerBI dashboard to track crucial KPIs of AdventureWorks, a fictitious global manufacturing company specializing in cycling equipment and accessories.
+
 ![dashboard_screenshot](https://github.com/SidEnigma/AdventureWorksDashboard/assets/19359983/caa9c1b6-1487-4fd4-89f4-bc2c8d49fc49)
 
 ## Objective
@@ -7,7 +8,7 @@ As a Business Intelligence Analyst, the objective was to enable the management t
 using only a folder of raw CSV files containing data on transactions, returns, products, customers, and sales territories.
 
 ## Key Stages
-Overview of the Business intelligence workflow involved:
+Overview of the Business intelligence workflow involved-
 ### Stage 1: Connecting & Munging Data
 - Connect to data sources
 - Transform raw data in Power Query Editor
