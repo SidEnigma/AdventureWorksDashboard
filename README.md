@@ -8,7 +8,7 @@ As a Business Intelligence Analyst, the objective was to enable the management t
 using only a folder of raw CSV files containing data on transactions, returns, products, customers, and sales territories.
 
 ## Key Stages
-Overview of the Business intelligence workflow involved-
+Overview of the Business intelligence workflow involved:
 ### Stage 1: Connecting & Munging Data
 - Connect to data sources
 - Transform raw data in Power Query Editor
